@@ -81,6 +81,14 @@ This phishing email impersonates the `Microsoft account team` and is sent from a
 
 ## EMAIL ANALYSIS TOOLS:
 
+### `CrowdStrike Falcon Sandbox:`
+<img width="1918" height="582" alt="image" src="https://github.com/user-attachments/assets/6746fa7e-ad4b-4d68-9d0d-25a5d38734ce" />
+
+<img width="1892" height="1050" alt="image" src="https://github.com/user-attachments/assets/aeabf593-73d6-44f2-82f8-2debc36b8088" />
+
+
+
+
 ### `EML Analyzer`
 
 <img width="1125" height="297" alt="Lab 7" src="https://github.com/user-attachments/assets/fe0406bb-9f6c-482f-8f09-41ae6c5e593c" />
@@ -90,6 +98,8 @@ This phishing email impersonates the `Microsoft account team` and is sent from a
 <img width="1127" height="95" alt="Lab 10" src="https://github.com/user-attachments/assets/0f91906a-848f-4628-8aab-3021e5d17876" />
 
 <img width="920" height="217" alt="Lab 11" src="https://github.com/user-attachments/assets/862ffa2a-ed83-4f43-a914-d433a1b54985" />
+
+
 
 ### `VirusTotal`
 
@@ -161,7 +171,7 @@ This phishing email, disguised as a `McAfee` renewal notice from `noreply@custom
 
 **Created By:** `Sruthi Rammohan`  
 **Date:** `Nov-06-2025`  
-**Time:** `18:40 IST`
+**Time:** `19:40 IST`
 
 
 
